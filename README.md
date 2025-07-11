@@ -1,26 +1,36 @@
-<h1 align="center">✨ Hey there, I’m <span style="color:#f06292;">Sarra Arab</span> 💖</h1>
+<h1 align="center">🌸 Hey there, I’m <span style="color:#f06292;">Sarra Arab</span> 💖</h1>
 
-<p align="center">🌸 AI Student • 💡 Tech Lover • 🚀 Dreamer in Code • 💻 Data Wizard</p>
-
----
-
-### 💫 About Me:
-- 🎓 Final-year AI Student @ **National Higher School of Artificial Intelligence (ENSIA)**, Algiers  
-- 💖 Passionate about **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**  
-- 🛰️ I love working on **Satellite Imagery**, **Computer Vision**, and **GeoAI**  
-- 🧠 Junior Data Scientist & AI Researcher  
-- 👩🏻‍💻 I build elegant, meaningful software to solve real-world problems 🌍  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=32&color=F06292&center=true&vCenter=true&width=600&lines=🌷+AI+Engineer+%7C+ML+Lover+%7C+Satellite+Dreamer;💫+Crafting+Code+with+Purpose+and+Sparkle;🌍+From+Algiers+to+the+Stars!" />
+</p>
 
 ---
 
-### 🌐 Connect With Me:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+### 🌸 About Me:
+- 🎓 Final-year AI Student @ **ENSIA — National Higher School of Artificial Intelligence**, Algiers  
+- 💗 I live and breathe **Machine Learning**, **Computer Vision**, and **Reinforcement Learning**  
+- 🛰️ Passionate about **Geospatial AI** and turning satellite data into Earth-saving solutions  
+- 💼 Junior Data Scientist & AI Researcher  
+- 💻 On a mission to make tech ✨ beautiful & meaningful ✨  
+
+---
+
+### 🌷 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23f06292?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-arab-b71177245/)
 [![Email](https://img.shields.io/badge/-Email-%23e91e63?style=flat&logo=gmail&logoColor=white)](mailto:sarra.arab@ensia.edu.dz)
 
 ---
 
-### 💻 Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fireworks.png" width="100%" />
+</div>
+
+### ✨ Tech Toolbox
 
 <div align="center">
   
@@ -46,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💫 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itssarrah&show_icons=true&theme=rose_pine&hide_border=false&count_private=true" />
@@ -56,51 +66,20 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Inspirational Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
 
-### 🕓 Local Time
-<p align="center">
-  <img src="https://readme-time.rakhim.dev/api?timezone=Africa/Algiers&time_format=24h&color=f06292" />
-</p>
+### 🌼 Fun Fact
+
+> I love transforming 🌍 data into 🌈 insights — with a sprinkle of ✨AI magic✨ and flower power 🌸🚀
 
 ---
 
-### 🎶 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true" />
-</p>
-
-> Replace `YOUR_SPOTIFY_UID` with your actual Spotify user ID. If you want help setting this up, I can walk you through it 🎧
-
----
-
-### 🐍 Contributions Snake
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/itssarrah/itssarrah/output/github-contribution-grid-snake.svg)
-
----
-
-### 📍 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itssarrah&style=flat-square&color=f06292" alt="profile views" />
-</p>
-
----
-
-### 🦄 Fun Fact
-
-> I sprinkle a little ✨AI magic✨ into everything I build — from satellites to code notebooks 🌍🌸
-
----
-
-### 💗 Thanks for stopping by!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=f06292&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=f06292&section=footer"/>
+</div>
