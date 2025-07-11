@@ -1,52 +1,68 @@
-<h1 align="center">Hi 👋, I'm Sarra Arab</h1>
+<h1 align="center">✨ Hey there, I’m <span style="color:#f06292;">Sarra Arab</span> 💖</h1>
 
-💫 About Me:
-- 🎓 Final-year AI Student at the National Higher School of Artificial Intelligence (ENSIA), Algiers  
-- 🤖 Passionate about Machine Learning, Deep Learning, and Reinforcement Learning  
-- 🛰️ Specialized in Computer Vision & Geospatial AI (Satellite imagery, object detection)  
-- 📊 Junior Data Scientist & AI Researcher  
-- 👩🏻‍💻 Software Developer focused on impactful tech solutions  
+<p align="center">🌸 AI Student • 💡 Tech Lover • 🚀 Dreamer in Code • 💻 Data Wizard</p>
 
 ---
 
-🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarra-arab-b71177245/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sarra.arab@ensia.edu.dz)
+### 💫 About Me:
+- 🎓 Final-year AI Student @ **National Higher School of Artificial Intelligence (ENSIA)**, Algiers  
+- 💖 Passionate about **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**  
+- 🛰️ I love working on **Satellite Imagery**, **Computer Vision**, and **GeoAI**  
+- 🧠 Junior Data Scientist & AI Researcher  
+- 👩🏻‍💻 I build elegant, meaningful software to solve real-world problems 🌍  
 
 ---
 
-💻 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+### 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23f06292?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-arab-b71177245/)
+[![Gmail](https://img.shields.io/badge/-Email-%23e91e63?style=flat&logo=gmail&logoColor=white)](mailto:sarra.arab@ensia.edu.dz)
 
 ---
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itssarrah&theme=default&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itssarrah&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itssarrah&layout=compact&theme=default)
+### 💻 Tech Stack
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-f48fb1?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-f06292?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f8bbd0?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-f9a825?logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-e91e63?logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-ba68c8?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-ce93d8?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ab47bc?logo=plotly)
+![OpenCV](https://img.shields.io/badge/-OpenCV-f48fb1?logo=opencv)
+
+![Django](https://img.shields.io/badge/-Django-8e24aa?logo=django)
+![Flask](https://img.shields.io/badge/-Flask-ad1457?logo=flask)
+![MongoDB](https://img.shields.io/badge/-MongoDB-43a047?logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-64b5f6?logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-ff8a65?logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-4dd0e1?logo=docker)
+![Git](https://img.shields.io/badge/-Git-f06292?logo=git)
+![Linux](https://img.shields.io/badge/-Linux-fce4ec?logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itssarrah&show_icons=true&theme=rose_pine&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssarrah&theme=rose_pine&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssarrah&layout=compact&theme=rose_pine" />
+</p>
 
 ---
 
-📫 Fun Fact:
-> I love transforming research into real-world impact — especially when it involves Earth, AI, and Satellites 🌍🚀
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+### 🎀 Fun Fact
+> I sprinkle a little ✨AI magic✨ into everything I build — from satellites to code notebooks 🌍🌸  
