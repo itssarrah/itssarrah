@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hey there, I’m <span style="color:#f06292;">Sarra Arab</span> 💖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=32&color=F06292&center=true&vCenter=true&width=600&lines=🌷+AI+Engineer+%7C+ML+Lover+%7C+Satellite+Dreamer;💫+Crafting+Code+with+Purpose+and+Sparkle;🌍+From+Algiers+to+the+Stars!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=32&color=F06292&center=true&vCenter=true&width=600&lines=🌷+AI+Engineer+%7C+Computer+Vision+Lover+%7C+World+Dreamer;💫+Crafting+Code+with+Purpose+and+Sparkle;🌍+From+Algiers+to+the+Stars!" />
 </p>
 
 ---
