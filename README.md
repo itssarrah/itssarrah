@@ -16,7 +16,7 @@
 ### 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23f06292?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-arab-b71177245/)
-[![Gmail](https://img.shields.io/badge/-Email-%23e91e63?style=flat&logo=gmail&logoColor=white)](mailto:sarra.arab@ensia.edu.dz)
+[![Email](https://img.shields.io/badge/-Email-%23e91e63?style=flat&logo=gmail&logoColor=white)](mailto:sarra.arab@ensia.edu.dz)
 
 ---
 
@@ -31,7 +31,6 @@
 ![Keras](https://img.shields.io/badge/-Keras-e91e63?logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-ba68c8?logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-ce93d8?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-ab47bc?logo=plotly)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-f48fb1?logo=opencv)
 
 ![Django](https://img.shields.io/badge/-Django-8e24aa?logo=django)
@@ -64,5 +63,44 @@
 
 ---
 
-### 🎀 Fun Fact
-> I sprinkle a little ✨AI magic✨ into everything I build — from satellites to code notebooks 🌍🌸  
+### 🕓 Local Time
+<p align="center">
+  <img src="https://readme-time.rakhim.dev/api?timezone=Africa/Algiers&time_format=24h&color=f06292" />
+</p>
+
+---
+
+### 🎶 Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true" />
+</p>
+
+> Replace `YOUR_SPOTIFY_UID` with your actual Spotify user ID. If you want help setting this up, I can walk you through it 🎧
+
+---
+
+### 🐍 Contributions Snake
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/itssarrah/itssarrah/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📍 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itssarrah&style=flat-square&color=f06292" alt="profile views" />
+</p>
+
+---
+
+### 🦄 Fun Fact
+
+> I sprinkle a little ✨AI magic✨ into everything I build — from satellites to code notebooks 🌍🌸
+
+---
+
+### 💗 Thanks for stopping by!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=f06292&height=100&section=footer"/>
+</p>
