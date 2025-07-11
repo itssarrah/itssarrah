@@ -38,9 +38,9 @@
 ---
 
 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarraArab&theme=default&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SarraArab&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraArab&layout=compact&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=itssarrah&theme=default&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=itssarrah&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itssarrah&layout=compact&theme=default)
 
 ---
 
